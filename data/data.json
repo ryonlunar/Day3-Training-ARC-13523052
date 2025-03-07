@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "TUGAS STIMA 1",
+    "description": "ANJAY INI KUDU GECE YA GES YAK\n\nJANGAN TELAT JIR",
+    "deadline": "2025-03-19",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "DEADLINE ARC 3",
+    "description": "WADUH UDAH MAU DL NICH",
+    "deadline": "2025-03-07",
+    "completed": false
+  }
+]
