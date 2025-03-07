@@ -18,6 +18,13 @@ node server.js
 ```
 And then, you can CTRL + Click the localhost found in terminal
 
+## Features
+This website have some features:
+* **Add Task**: You can add daily task in your todo list
+* **Delete Task**: You can delete your done or unnecessery task
+* **Update Task**: You can update your attributes, like description, deadline, or title
+* **Search Task**: You can search your files using search bar based on your task title.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
